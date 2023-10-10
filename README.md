@@ -1,16 +1,20 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ohs4vLb8aJAb39gnC/giphy.gif" width="150"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/thomasmarconi">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a><br>
-  <img src="https://komarev.com/ghpvc/?username=thomasmarconi&style=flat-square&color=blue" alt=""/><br>
-  <h1>hey there <img src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif"/>👋</h1>
   
+  <h1 align="center"> Hi, My name is <a href="https://www.marconi.bio">Thomas!</a> <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif"></h1>
+
+  <a href="https://www.linkedin.com/in/thomasmarconi">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><br>
+  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" height="auto"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
+
+---
+
+### :fire: My Stats :
+<div align = "center">
+  
+  ![thomasmarconi's github stats](https://github-readme-stats.vercel.app/api?username=thomasmarconi&theme=dark)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thomasmarconi&theme=highcontrast)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -42,18 +46,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" **alt="Unix" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thomasmarconi&theme=highcontrast)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmarconi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
