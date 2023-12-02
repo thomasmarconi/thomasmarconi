@@ -10,7 +10,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 <div align = "center">
   
   ![thomasmarconi's github stats](https://github-readme-stats.vercel.app/api?username=thomasmarconi&theme=dark)
@@ -27,13 +27,15 @@
 
 - :zap: In my free time, I solve problems on LeetCode and work on my personal portfolio.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomasmarconi)
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomasmarconi)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -56,7 +58,7 @@
 
 ---
 
-### :writing_hand: Blog Posts :
+### ✍️ Blog Posts :
 <ul>
   <li><a href="https://www.marconi.bio/working_with_my_first_client"> Working With My First Client</a></li>
   <li><a href="https://www.marconi.bio/about">About Me</a></li>
