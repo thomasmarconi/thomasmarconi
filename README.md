@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <h1 align="center"> Hi, My name is <a href="https://www.marconi.bio">Thomas!</a> <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif"></h1>
+  <h1 align="center"> Hi, My name is <a href="https://linkedin.com/in/thomasmarconi">Thomas!</a> <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif"></h1>
 
   <a href="https://www.linkedin.com/in/thomasmarconi">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><br>
