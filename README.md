@@ -7,6 +7,6 @@
 ---
 
 ### :man_technologist: About Me : I am a Software Engineer working at [Tactical Air Support](https://www.tacticalairsupport.com/).
-- :telescope: Currently working as a full stack software engineer @ [Tac Air](https://tacticalairsupport.com) studying part time through [GaTech's OMSCS program](https://omscs.gatech.edu/).
+- :telescope: Currently working as a full stack software engineer studying part time through [GaTech's OMSCS program](https://omscs.gatech.edu/).
 - :zap: In my free time I play basketball, work out, and work on personal projects.
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomasmarconi)
