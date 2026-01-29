@@ -3,8 +3,6 @@
   <a href="https://www.linkedin.com/in/thomasmarconi">
 </div>
 
----
-
 ### :man_technologist: About Me : I am a Software Engineer working at [Tactical Air Support](https://www.tacticalairsupport.com/).
 - :telescope: Currently working as a full stack software engineer studying part time through [GaTech's OMSCS program](https://omscs.gatech.edu/).
 - :zap: In my free time I play basketball, work out, and work on personal projects.
