@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <h1 align="center"> Hi, My name is <a href="https://linkedin.com/in/thomasmarconi">Thomas!</a> <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif"></h1>
   <a href="https://www.linkedin.com/in/thomasmarconi">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" height="auto"/>
 </div>
 
 ---
